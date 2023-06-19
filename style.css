@@ -233,7 +233,7 @@ p{
 
 
 /* Footer  */
-/* <!-- cant get this to work --> */
+/* <!-- cant get this to work due to .video-container in css--> */
 /* .footer {
   background-color: #333;
   color: #fff;
